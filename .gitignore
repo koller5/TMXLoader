@@ -6,5 +6,6 @@
 /.settings/
 /*.dll
 /*.so
+/*.dylib
 .classpath
 .project
